@@ -1,0 +1,6 @@
+export const GET_USERINFO = 'GET_USERINFO'
+export const REG_USER = 'REG_USER'
+export const USER_LOGIN = 'USER_LOGIN'
+export const GET_USERINFO_BY_NAME = 'GET_USERINFO_BY_NAME'
+export const GET_TOPIC = 'GET_TOPIC'
+export const GET_TOPIC_BY_ID = 'GET_TOPIC_BY_ID'
